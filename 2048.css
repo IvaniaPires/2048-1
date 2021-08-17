@@ -2,14 +2,14 @@ body {
   background-color: LightSteelBlue;
   text-align: center;
 }
-#Jeu {
+#game {
   display: inline-block;
   background-color: SteelBlue;
   margin: 0 auto;
   padding: 10px;
 }
 
-#Jeu div {
+#game div {
   margin: 0 auto;
   overflow: hidden;
 }

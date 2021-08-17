@@ -1,4 +1,5 @@
 let cells = document.querySelectorAll(".cell");
+let game = document.querySelector("#game");
 let randomValues = [2,4];
 let board = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
 
@@ -33,6 +34,4 @@ board[hasardPosition()] = hasardValue();
 board[hasardPosition()] = hasardValue();
 fillBoard();
 
-
-
-
+game.addEventListener()
